@@ -7,7 +7,7 @@ identifying selectors in both CSS and Javascript. How do you think the structure
 helps or does not help with that goal?
 
 Positives:
-- Semantic HTML: Clear use of <h2> and <div> with descriptive classes improves element selection based on their role.
+- Semantic HTML: Clear use of h2 and div with descriptive classes improves element selection based on their role.
 - Meaningful class names: Classes like .table and .square enhance readability and targeting in CSS and Javascript. 
 
 Area for improvement:
